@@ -5,7 +5,6 @@ dependencies:
   idf: ">=5.0"
   asio:
     version: ">=1.32.0"
-    registry_url: https://components.espressif.com
 targets:
   - esp32
   - esp32s2
